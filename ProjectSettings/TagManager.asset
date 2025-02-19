@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Opponent
+  - Coins
+  - Teleporter
+  - 2xRun
+  - FxTemporaire
+  - Key
+  - Water
+  - Chestbox
+  - LevelCompleteTrigger
+  - GateButton
+  - Food
+  - PetRescueEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - walls
+  - Water
+  - UI
+  - clonedPlayerCollider
+  - mainPlayerCollider
+  - Obstacle
+  - Enemy
+  - RuntimeNavemsh
+  - Player
+  - Door
+  - 3DCamera
+  - MenuLevelCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
